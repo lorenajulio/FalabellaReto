@@ -1,0 +1,29 @@
+
+r
+java:S1104	"VMake BTN_COOKIS a static final constant or non-public and provide accessors if needed.(”ÆÉ8 –Œ‹ 1
+y
+java:S1104"WMake BTN_AGREGAR a static final constant or non-public and provide accessors if needed.(¯ ùúÿÿÿÿ8¡–Œ‹ 1
+v
+java:S1104"YMake BTN_IRCARRITO a static final constant or non-public and provide accessors if needed.(Ì–ü²8¡–Œ‹ 1
+|
+java:S1104"ZMake INPUT_CANTIDAD a static final constant or non-public and provide accessors if needed.(¾Ñ¸ôÿÿÿÿÿ8¡–Œ‹ 1
+L
+java:S1444	"0Make this "public static BTN_COOKIS" field final(”ÆÉ8¡–Œ‹ 1
+S
+java:S1444"1Make this "public static BTN_AGREGAR" field final(¯ ùúÿÿÿÿ8¡–Œ‹ 1
+P
+java:S1444"3Make this "public static BTN_IRCARRITO" field final(Ì–ü²8¡–Œ‹ 1
+V
+java:S1444"4Make this "public static INPUT_CANTIDAD" field final(¾Ñ¸ôÿÿÿÿÿ8¢–Œ‹ 1
+q
+java:S3008	"URename this field "BTN_COOKIS" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(”ÆÉ8£–Œ‹ 1
+x
+java:S3008"VRename this field "BTN_AGREGAR" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¯ ùúÿÿÿÿ8£–Œ‹ 1
+u
+java:S3008"XRename this field "BTN_IRCARRITO" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ì–ü²8£–Œ‹ 1
+{
+java:S3008"YRename this field "INPUT_CANTIDAD" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¾Ñ¸ôÿÿÿÿÿ8£–Œ‹ 1
+V
+java:S1118":Add a private constructor to hide the implicit public one.(ŠŠòZ8¨–Œ‹ 1
+Z
+java:S1128"=Remove this unused import 'javax.swing.table.TableRowSorter'.(ôäö8®–Œ‹ 1
